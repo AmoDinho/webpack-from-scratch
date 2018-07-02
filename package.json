@@ -1,0 +1,29 @@
+{
+  "name": "webpack-from-scratch",
+  "version": "1.0.0",
+  "description": "An attempt to write a Webpack config from scratch.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmoDinho/webpack-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmoDinho/webpack-from-scratch/issues"
+  },
+  "homepage": "https://github.com/AmoDinho/webpack-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-command": "^0.3.1",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
